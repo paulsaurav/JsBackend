@@ -1,3 +1,3 @@
-# A Backend in jabascript
+# A Backend in javascript
 
 - [Model Link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
